@@ -1,6 +1,6 @@
 <?php
 
-// sleep for 20 seconds
+/// sleep for 20 seconds
 sleep(20);
 
 // wake up !
